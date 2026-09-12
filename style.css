@@ -455,7 +455,8 @@ p.intro-line{
 .timeline,
 .biblio,
 .press-list,
-.linklist{
+.linklist,
+.orcid-facts{
   list-style:none;
   margin:0;
   padding:0;
@@ -634,6 +635,34 @@ h4.sub:first-of-type{ margin-top:0; }
 
 .book-details{
   min-width:0;
+}
+
+.orcid-facts{
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(210px, 1fr));
+  gap:1px;
+  margin:0 0 22px;
+  background:var(--line);
+  border:1px solid var(--line);
+}
+
+.orcid-facts li{
+  min-height:96px;
+  padding:16px;
+  background:linear-gradient(180deg, var(--surface-2), var(--surface));
+}
+
+.fact-label{
+  display:block;
+  margin:0 0 6px;
+  color:var(--accent-strong);
+  font-size:.72rem;
+  font-weight:800;
+  text-transform:uppercase;
+}
+
+.compact-list li{
+  padding-block:10px;
 }
 
 .stats{
