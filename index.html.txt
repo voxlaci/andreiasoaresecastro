@@ -161,7 +161,3 @@
       <script src="site.js"></script>
       </body>
       </html>
-      
-      </div>
-      <p class="availability">Disponível para entrevistas, comentário especializado e intervenções públicas sobre relações internacionais, diplomacia e política europeia.</p>
-    </section>
