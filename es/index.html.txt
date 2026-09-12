@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="es" data-lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Andreia Soares e Castro | Relaciones Internacionales, Unión Europea, Diplomacia</title>
+<meta name="description" content="Andreia Soares e Castro, Profesora Auxiliar en el ISCSP – Universidad de Lisboa. Investigación sobre la Unión Europea, política exterior, diplomacia y Sports Diplomacy. Disponible para entrevistas e intervenciones públicas.">
+<link rel="canonical" href="https://andreiasoaresecastro.com/es/">
+<link rel="alternate" hreflang="pt-PT" href="https://andreiasoaresecastro.com/">
+<link rel="alternate" hreflang="en" href="https://andreiasoaresecastro.com/en/">
+<link rel="alternate" hreflang="es" href="https://andreiasoaresecastro.com/es/">
+<link rel="alternate" hreflang="de" href="https://andreiasoaresecastro.com/de/">
+<link rel="alternate" hreflang="zh-CN" href="https://andreiasoaresecastro.com/zh-cn/">
+<link rel="alternate" hreflang="x-default" href="https://andreiasoaresecastro.com/">
+<meta property="og:type" content="profile">
+<meta property="og:title" content="Andreia Soares e Castro | Relaciones Internacionales, Unión Europea, Diplomacia">
+<meta property="og:description" content="Andreia Soares e Castro, Profesora Auxiliar en el ISCSP – Universidad de Lisboa. Investigación sobre la Unión Europea, política exterior, diplomacia y Sports Diplomacy. Disponible para entrevistas e intervenciones públicas.">
+<meta property="og:url" content="https://andreiasoaresecastro.com/es/">
+<meta property="og:image" content="https://www.iscsp.ulisboa.pt/uploads/2018/08/5b87fbf381e65-1-1.jpg">
+<meta property="og:locale" content="es_ES">
+<meta property="og:site_name" content="Andreia Soares e Castro">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Andreia Soares e Castro | Relaciones Internacionales, Unión Europea, Diplomacia">
+<meta name="twitter:description" content="Andreia Soares e Castro, Profesora Auxiliar en el ISCSP – Universidad de Lisboa. Investigación sobre la Unión Europea, política exterior, diplomacia y Sports Diplomacy. Disponible para entrevistas e intervenciones públicas.">
+<meta name="twitter:image" content="https://www.iscsp.ulisboa.pt/uploads/2018/08/5b87fbf381e65-1-1.jpg">
+<meta name="robots" content="index, follow">
+<link rel="stylesheet" href="../style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Andreia Soares e Castro",
+  "jobTitle": "Profesora Auxiliar · Instituto Superior de Ciencias Sociales y Políticas (ISCSP)",
+  "description": "Andreia Soares e Castro, Profesora Auxiliar en el ISCSP – Universidad de Lisboa. Investigación sobre la Unión Europea, política exterior, diplomacia y Sports Diplomacy. Disponible para entrevistas e intervenciones públicas.",
+  "url": "https://andreiasoaresecastro.com/es/",
+  "image": "https://www.iscsp.ulisboa.pt/uploads/2018/08/5b87fbf381e65-1-1.jpg",
+  "worksFor": {
+    "@type": "CollegeOrUniversity",
+    "name": "ISCSP – Universidade de Lisboa",
+    "url": "https://www.iscsp.ulisboa.pt/"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Universidade de Lisboa"
+  },
+  "knowsLanguage": [
+    "pt",
+    "es",
+    "en"
+  ],
+  "sameAs": [
+    "https://www.iscsp.ulisboa.pt/pt/institucional/docentes/docentes/andreia-mendes-soares-e-castro",
+    "https://www.cienciavitae.pt/portal/1B1D-8841-751B",
+    "https://orcid.org/0000-0001-7354-9561",
+    "https://www.researchgate.net/profile/Andreia-Castro",
+    "https://expresso.pt/autores/2022-03-21-andreia-soares-e-castro-ea1dba96"
+  ]
+}
+</script>
+</head>
+<body data-root="false">
+<a class="skip-link" href="#main">Ir al contenido</a>
+<nav class="langbar" role="group" aria-label="Idioma">
+  <a href="/" data-lang="pt">PT</a><a href="/en/" data-lang="en">EN</a><a href="/es/" data-lang="es" aria-current="true">ES</a><a href="/de/" data-lang="de">DE</a><a href="/zh-cn/" data-lang="zh">中文</a>
+</nav>
+
+<div class="sheet">
+  <div class="letterhead">
+    <span class="portrait-wrap"><img class="portrait" src="https://www.iscsp.ulisboa.pt/uploads/2018/08/5b87fbf381e65-1-1.jpg" alt="Retrato de Andreia Soares e Castro" width="104" height="104" loading="eager"></span>
+    <div>
+      <p class="eyebrow">PERFIL PROFESIONAL</p>
+      <p class="institution">Universidad de Lisboa · ISCSP</p>
+      <h1 class="name">Andreia Soares e Castro</h1>
+      <p class="role">Profesora Auxiliar · Instituto Superior de Ciencias Sociales y Políticas (ISCSP)</p>
+      <p class="tagline">Relaciones Internacionales · Unión Europea · Diplomacia · Sports Diplomacy</p>
+    </div>
+  </div>
+
+  <main id="main">
+    <p class="lede" style="margin-top:28px">Andreia Soares e Castro es Profesora Auxiliar en el Instituto Superior de Ciencias Sociales y Políticas (ISCSP) de la Universidad de Lisboa, donde imparte clases desde 1997 y coordina, desde 2018, el Máster en Relaciones Internacionales. Es doctora en Ciencias Sociales, especialidad en Relaciones Internacionales, e investigadora en el Centro de Administración y Políticas Públicas (CAPP) desde 2009. Su investigación aborda la Unión Europea, la política exterior y la diplomacia — con especial atención a la diplomacia deportiva («Sports Diplomacy») — y la relación entre religión y relaciones internacionales, tema de su tesis doctoral.</p>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">I.</span><h2 class="sec-title">Trayectoria Académica</h2></div>
+      <ul class="timeline"><li><span class="yr">1996</span><p class="tl-title">Licenciatura en Relaciones Internacionales</p><p class="tl-detail">16/20 · UTL-ISCSP</p></li><li><span class="yr">1997</span><p class="tl-title">Inicio de su actividad docente</p><p class="tl-detail">Instituto Superior de Ciencias Sociales y Políticas</p></li><li><span class="yr">2002</span><p class="tl-title">Máster en Relaciones Internacionales</p><p class="tl-detail">UTL-ISCSP · tesis «Unión Europea: ¿qué modelo político? – la vigencia del método comunitario»</p></li><li><span class="yr">2010</span><p class="tl-title">Doctorado en Ciencias Sociales (Relaciones Internacionales)</p><p class="tl-detail">Universidad de Lisboa · tesis «“Urbi et Orbi”: la relevancia de la religión en la vida pública globalizada», Sobresaliente por unanimidad · nombramiento como Profesora Auxiliar</p></li><li><span class="yr">2018</span><p class="tl-title">Coordinadora Ejecutiva del Máster en Relaciones Internacionales</p><p class="tl-detail">ISCSP – Universidad de Lisboa</p></li></ul>
+    </section>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">II.</span><h2 class="sec-title">Áreas de Especialización</h2></div>
+      <p class="intro-line">Entre 2012 y 2015, codirigió el ciclo de seminarios «Diplomacia para el Siglo XXI» en el ISCSP, dedicado a la diplomacia económica, cultural, científica y pública — ámbitos que siguen siendo centrales en su investigación:</p>
+      <div class="tags"><span class="tag">Diplomacia</span><span class="tag">Diplomacia Económica</span><span class="tag">Diplomacia Cultural</span><span class="tag">Diplomacia Pública</span><span class="tag">Diplomacia Científica</span><span class="tag">Sports Diplomacy</span><span class="tag">Política Exterior y Soft Power</span><span class="tag">Poder Normativo de la UE</span><span class="tag">Europeización</span><span class="tag">Unión Europea</span><span class="tag">Religión y Relaciones Internacionales</span></div>
+    </section>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">III.</span><h2 class="sec-title">Diplomacia Deportiva en el Centro de su Investigación</h2></div>
+      <p class="intro-line">Una de sus líneas de investigación más distintivas analiza cómo los Estados utilizan los grandes eventos deportivos para proyectar su soft power:</p>
+      <ul class="biblio"><li><span class="cite-title">The 2018 FIFA World Cup: The Gains and Constraints of Russia&#x27;s Soft Power of Attraction Through Football and Sports</span><span class="cite-meta">Rising Powers Quarterly, 3(3), 2018, pp. 17–37</span><span class="cite-note">Analiza cómo Rusia utilizó el Mundial de 2018 para reforzar su soft power e imagen internacional.</span></li><li><span class="cite-title">South Africa&#x27;s Engagement in Sports Diplomacy: The Successful Hosting of the 2010 FIFA World Cup</span><span class="cite-meta">The Hague Journal of Diplomacy, 8(3–4), 2013, pp. 197–210</span><span class="cite-note">Examina el éxito de Sudáfrica al utilizar el deporte como instrumento diplomático.</span></li><li><span class="cite-title">2014 FIFA World Cup and 2016 Olympic Games: Brazil&#x27;s Strategy «To Win Hearts and Minds» Through Football</span><span class="cite-meta">Public Diplomacy Magazine, 2013</span><span class="cite-note">Estudia la estrategia brasileña de proyección internacional a través de megaeventos deportivos.</span></li></ul>
+    </section>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">IV.</span><h2 class="sec-title">Publicaciones Seleccionadas</h2></div>
+      <h4 class="sub">Libro</h4>
+      <ul class="biblio"><li><span class="cite-title">União Europeia: que modelo político? A atualidade do método comunitário</span><span class="cite-meta">[Unión Europea: ¿qué modelo político? La vigencia del método comunitario] – Lisboa: ISCSP, 2005</span></li></ul>
+      <h4 class="sub">Capítulos de Libro (selección)</h4>
+      <ul class="biblio"><li><span class="cite-title">Reflexões sobre o futuro da Europa: a crise da COVID-19 e a necessidade de avançar no processo de reforma da UE</span><span class="cite-meta">[Reflexiones sobre el futuro de Europa: la crisis de la COVID-19 y la necesidad de reformar la UE] – In Crises e Desafios Internacionais. Lisboa: MGI, 2020</span></li><li><span class="cite-title">O contributo da União Europeia para a aplicação dos Princípios Orientadores das Nações Unidas sobre Empresas e Direitos Humanos</span><span class="cite-meta">[La contribución de la UE a los Principios Rectores de la ONU sobre Empresas y Derechos Humanos] – In Las Empresas Transnacionales en el Derecho Internacional Contemporáneo. Valencia: Tirant Lo Blanch, 2019</span></li><li><span class="cite-title">«Quo Vadis Europa?» – Para onde caminha a União Europeia (UE)?: o «Brexit» e a afirmação da indispensabilidade do projeto europeu</span><span class="cite-meta">[¿Quo Vadis Europa? El Brexit y la vigencia del proyecto europeo] – In Estado, Ordem Internacional e Novas Ameaças. Lisboa: MGI, 2018</span></li><li><span class="cite-title">A Europa Global: solidariedade e responsabilidade na ação externa da União Europeia</span><span class="cite-meta">[La Europa Global: solidaridad y responsabilidad en la acción exterior de la UE] – In Cooperação Internacional para o Desenvolvimento. Lisboa: Colibri, 2016</span></li></ul>
+      <p class="intro-line" style="margin-top:14px">Es también autora de varias entradas en la Enciclopedia de las Relaciones Internacionales y la Enciclopedia de Derecho Internacional (D. Quixote; Almedina). Su tesis doctoral – «“Urbi et Orbi”: la relevancia de la religión en la vida pública globalizada» – fue aprobada con la máxima calificación, por unanimidad.</p>
+    </section>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">V.</span><h2 class="sec-title">Dirección de Tesis</h2></div>
+      <div class="stats">
+        <div class="stat"><span class="num">27</span><span class="lbl">tesis de máster dirigidas</span></div>
+        <div class="stat"><span class="num">29</span><span class="lbl">años como docente en el ISCSP</span></div>
+        <div class="stat"><span class="num">2010</span><span class="lbl">año de su doctorado</span></div>
+      </div>
+      <p class="intro-line">Una selección de temas dirigidos en los últimos años, que refleja la diversidad de sus líneas de investigación:</p>
+      <ul class="press-list"><li>Diplomacia Digital: la nueva estrategia de influencia china (2013–2021)</li><li>Sports Diplomacy y la práctica del Sportswashing: el caso de Arabia Saudita (2016–2022)</li><li>Ciberseguridad y Cyberdiplomacy: el papel de la diplomacia brasileña en la ONU</li><li>Museum Diplomacy: el caso del Museo del Louvre</li><li>Diplomacia Cultural: la Bossa Nova como instrumento de promoción de Brasil</li></ul>
+    </section>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">VI.</span><h2 class="sec-title">Prensa y Participación Pública</h2></div>
+      <p class="intro-line">Colabora habitualmente con el periódico Expresso, donde firma artículos de opinión sobre la actualidad europea e internacional, entre ellos:</p>
+      <ul class="press-list"><li><span class="yr-badge">2024</span>Porque devemos celebrar o Dia da Europa</li><li><span class="yr-badge">2023</span>Um ano de guerra na Europa: a necessidade de continuarmos unidos no apoio à Ucrânia</li><li><span class="yr-badge">2022</span>Invasão da Ucrânia: a importância da força moral</li></ul>
+      <div class="btnrow">
+        <a class="btn" href="https://expresso.pt/autores/2022-03-21-andreia-soares-e-castro-ea1dba96" target="_blank" rel="noopener">Leer en Expresso</a>
+        <a class="btn" href="https://www.facebook.com/watch/?v=1083392265609381" target="_blank" rel="noopener">Ver intervención pública</a>
+      </div>
+      <p class="availability">Disponible para entrevistas, comentario especializado e intervenciones públicas sobre relaciones internacionales, diplomacia y política europea.</p>
+    </section>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">VII.</span><h2 class="sec-title">Contacto Institucional</h2></div>
+      <div class="contact-grid">
+        <div>
+          <h4 class="sub">Dirección</h4>
+          <p>ISCSP &ndash; Universidade de Lisboa</p>
+          <p>Planta 0, Despacho 27, Edificio Tejo</p>
+          <p>+351 21 361 94 30</p>
+          <p><a href="mailto:asoares@iscsp.ulisboa.pt">asoares@iscsp.ulisboa.pt</a></p>
+          <p>Idiomas: Portugués (nativo) · Español (C1) · Inglés (B1)</p>
+        </div>
+        <div>
+          <h4 class="sub">Enlaces</h4>
+          <ul class="linklist">
+            <li><a href="https://www.iscsp.ulisboa.pt/pt/institucional/docentes/docentes/andreia-mendes-soares-e-castro" target="_blank" rel="noopener">ISCSP &ndash; Universidade de Lisboa</a></li>
+            <li><a href="https://www.cienciavitae.pt/portal/1B1D-8841-751B" target="_blank" rel="noopener">Ci&ecirc;nciaVitae</a></li>
+            <li><a href="https://orcid.org/0000-0001-7354-9561" target="_blank" rel="noopener">ORCID 0000-0001-7354-9561</a></li>
+            <li><a href="https://www.researchgate.net/profile/Andreia-Castro" target="_blank" rel="noopener">ResearchGate</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="colophon">Perfil profesional elaborado a partir de fuentes públicas e institucionales (CiênciaVitae, ISCSP – Universidad de Lisboa).</footer>
+</div>
+
+<div class="cookie-banner" id="cookieBanner" role="dialog" aria-live="polite" hidden>
+  <p>Este sitio utiliza únicamente cookies técnicas esenciales para su funcionamiento. No recopilamos datos con fines publicitarios.</p>
+  <button type="button" id="cookieAccept">Entendido</button>
+</div>
+
+<script src="../site.js"></script>
+</body>
+</html>
