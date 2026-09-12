@@ -83,12 +83,12 @@
 
     <section class="dossier">
       <div class="sec-head"><span class="sec-num">I.</span><h2 class="sec-title">学术历程</h2></div>
-      <ul class="timeline"><li><span class="yr">1996</span><p class="tl-title">获得国际关系学士学位</p><p class="tl-detail">16/20分 · 里斯本技术大学ISCSP</p></li><li><span class="yr">1997</span><p class="tl-title">开始在ISCSP任教</p><p class="tl-detail">社会与政治科学高等学院</p></li><li><span class="yr">2002</span><p class="tl-title">获得国际关系硕士学位</p><p class="tl-detail">里斯本技术大学ISCSP · 论文《欧洲联盟:何种政治模式?——共同体方法的现实意义》</p></li><li><span class="yr">2010</span><p class="tl-title">获得社会科学(国际关系方向)博士学位</p><p class="tl-detail">里斯本大学 · 论文《"寰宇之内":宗教在全球化公共生活中的现实意义》,获全体一致最高评价 · 晋升为助理教授</p></li><li><span class="yr">2018</span><p class="tl-title">出任国际关系硕士项目执行协调人</p><p class="tl-detail">里斯本大学ISCSP</p></li></ul>
+      <ul class="timeline"><li><span class="yr">1996</span><p class="tl-title">获得国际关系学士学位</p><p class="tl-detail">16/20分 · 里斯本技术大学ISCSP</p></li><li><span class="yr">1997</span><p class="tl-title">开始在ISCSP任教</p><p class="tl-detail">社会与政治科学高等学院</p></li><li><span class="yr">2002</span><p class="tl-title">获得国际关系硕士学位</p><p class="tl-detail">里斯本技术大学ISCSP · 论文《欧洲联盟:何种政治模式?——共同体方法的现实意义》</p></li><li><span class="yr">2010</span><p class="tl-title">获得社会科学(国际关系方向)博士学位</p><p class="tl-detail">里斯本大学 · 论文《“寰宇之内”:宗教在全球化公共生活中的现实意义》,获全体一致最高评价 · 晋升为助理教授</p></li><li><span class="yr">2018</span><p class="tl-title">出任国际关系硕士项目执行协调人</p><p class="tl-detail">里斯本大学ISCSP</p></li></ul>
     </section>
 
     <section class="dossier">
       <div class="sec-head"><span class="sec-num">II.</span><h2 class="sec-title">专业领域</h2></div>
-      <p class="intro-line">2012年至2015年间,她在ISCSP共同主持"21世纪外交"系列研讨会,聚焦经济外交、文化外交、科技外交与公共外交——这些领域至今仍是其研究的核心:</p>
+      <p class="intro-line">2012年至2015年间,她在ISCSP共同主持“21世纪外交”系列研讨会,聚焦经济外交、文化外交、科技外交与公共外交——这些领域至今仍是其研究的核心:</p>
       <div class="tags"><span class="tag">外交</span><span class="tag">经济外交</span><span class="tag">文化外交</span><span class="tag">公共外交</span><span class="tag">科技外交</span><span class="tag">体育外交(Sports Diplomacy)</span><span class="tag">对外政策与软实力</span><span class="tag">欧盟规范性力量</span><span class="tag">欧洲化</span><span class="tag">欧洲联盟</span><span class="tag">宗教与国际关系</span></div>
     </section>
 
@@ -104,7 +104,7 @@
       <ul class="biblio"><li><span class="cite-title">União Europeia: que modelo político? A atualidade do método comunitário</span><span class="cite-meta">《欧洲联盟:何种政治模式?共同体方法的现实意义》——里斯本:ISCSP出版社,2005年</span></li></ul>
       <h4 class="sub">书籍章节(精选)</h4>
       <ul class="biblio"><li><span class="cite-title">Reflexões sobre o futuro da Europa: a crise da COVID-19 e a necessidade de avançar no processo de reforma da UE</span><span class="cite-meta">《关于欧洲未来的思考:新冠疫情危机与欧盟改革的必要性》——收录于Crises e Desafios Internacionais。里斯本:MGI出版社,2020年</span></li><li><span class="cite-title">O contributo da União Europeia para a aplicação dos Princípios Orientadores das Nações Unidas sobre Empresas e Direitos Humanos</span><span class="cite-meta">《欧盟对联合国工商业与人权指导原则实施的贡献》——收录于Las Empresas Transnacionales en el Derecho Internacional Contemporáneo。瓦伦西亚:Tirant Lo Blanch出版社,2019年</span></li><li><span class="cite-title">«Quo Vadis Europa?» – Para onde caminha a União Europeia (UE)?: o «Brexit» e a afirmação da indispensabilidade do projeto europeu</span><span class="cite-meta">《欧洲何去何从?脱欧与欧洲一体化事业的不可或缺性》——收录于Estado, Ordem Internacional e Novas Ameaças。里斯本:MGI出版社,2018年</span></li><li><span class="cite-title">A Europa Global: solidariedade e responsabilidade na ação externa da União Europeia</span><span class="cite-meta">《全球欧洲:欧盟对外行动中的团结与责任》——收录于Cooperação Internacional para o Desenvolvimento。里斯本:Colibri出版社,2016年</span></li></ul>
-      <p class="intro-line" style="margin-top:14px">她还为《国际关系百科全书》与《国际法百科全书》(D. Quixote出版社;Almedina出版社)撰写了多个词条。其博士论文《"寰宇之内":宗教在全球化公共生活中的现实意义》获全体一致最高评价通过。</p>
+      <p class="intro-line" style="margin-top:14px">她还为《国际关系百科全书》与《国际法百科全书》(D. Quixote出版社;Almedina出版社)撰写了多个词条。其博士论文《“寰宇之内”:宗教在全球化公共生活中的现实意义》获全体一致最高评价通过。</p>
     </section>
 
     <section class="dossier">
@@ -115,7 +115,7 @@
         <div class="stat"><span class="num">2010</span><span class="lbl">获得博士学位年份</span></div>
       </div>
       <p class="intro-line">以下为近年来指导的部分论文选题,反映其研究兴趣的广度:</p>
-      <ul class="press-list"><li>数字外交:中国影响力新战略研究(2013–2021)</li><li>体育外交与"体育洗白"(Sportswashing):以沙特阿拉伯为例(2016–2022)</li><li>网络安全与网络外交:巴西在联合国的角色</li><li>博物馆外交:以卢浮宫为例</li><li>文化外交:波萨诺瓦(Bossa Nova)作为巴西对外推广的工具</li></ul>
+      <ul class="press-list"><li>数字外交:中国影响力新战略研究(2013–2021)</li><li>体育外交与“体育洗白”(Sportswashing):以沙特阿拉伯为例(2016–2022)</li><li>网络安全与网络外交:巴西在联合国的角色</li><li>博物馆外交:以卢浮宫为例</li><li>文化外交:波萨诺瓦(Bossa Nova)作为巴西对外推广的工具</li></ul>
     </section>
 
     <section class="dossier">
