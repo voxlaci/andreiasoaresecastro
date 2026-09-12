@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="zh-CN" data-lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Andreia Soares e Castro | 国际关系、欧洲联盟、外交</title>
+<meta name="description" content="Andreia Soares e Castro,里斯本大学社会与政治科学高等学院(ISCSP)助理教授。研究领域涵盖欧洲联盟、对外政策、外交及体育外交(Sports Diplomacy)。可接受专访与公开演讲邀约。">
+<link rel="canonical" href="https://andreiasoaresecastro.com/zh-cn/">
+<link rel="alternate" hreflang="pt-PT" href="https://andreiasoaresecastro.com/">
+<link rel="alternate" hreflang="en" href="https://andreiasoaresecastro.com/en/">
+<link rel="alternate" hreflang="es" href="https://andreiasoaresecastro.com/es/">
+<link rel="alternate" hreflang="de" href="https://andreiasoaresecastro.com/de/">
+<link rel="alternate" hreflang="zh-CN" href="https://andreiasoaresecastro.com/zh-cn/">
+<link rel="alternate" hreflang="x-default" href="https://andreiasoaresecastro.com/">
+<meta property="og:type" content="profile">
+<meta property="og:title" content="Andreia Soares e Castro | 国际关系、欧洲联盟、外交">
+<meta property="og:description" content="Andreia Soares e Castro,里斯本大学社会与政治科学高等学院(ISCSP)助理教授。研究领域涵盖欧洲联盟、对外政策、外交及体育外交(Sports Diplomacy)。可接受专访与公开演讲邀约。">
+<meta property="og:url" content="https://andreiasoaresecastro.com/zh-cn/">
+<meta property="og:image" content="https://www.iscsp.ulisboa.pt/uploads/2018/08/5b87fbf381e65-1-1.jpg">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:site_name" content="Andreia Soares e Castro">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Andreia Soares e Castro | 国际关系、欧洲联盟、外交">
+<meta name="twitter:description" content="Andreia Soares e Castro,里斯本大学社会与政治科学高等学院(ISCSP)助理教授。研究领域涵盖欧洲联盟、对外政策、外交及体育外交(Sports Diplomacy)。可接受专访与公开演讲邀约。">
+<meta name="twitter:image" content="https://www.iscsp.ulisboa.pt/uploads/2018/08/5b87fbf381e65-1-1.jpg">
+<meta name="robots" content="index, follow">
+<link rel="stylesheet" href="../style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Andreia Soares e Castro",
+  "jobTitle": "助理教授 · 社会与政治科学高等学院(ISCSP)",
+  "description": "Andreia Soares e Castro,里斯本大学社会与政治科学高等学院(ISCSP)助理教授。研究领域涵盖欧洲联盟、对外政策、外交及体育外交(Sports Diplomacy)。可接受专访与公开演讲邀约。",
+  "url": "https://andreiasoaresecastro.com/zh-cn/",
+  "image": "https://www.iscsp.ulisboa.pt/uploads/2018/08/5b87fbf381e65-1-1.jpg",
+  "worksFor": {
+    "@type": "CollegeOrUniversity",
+    "name": "ISCSP – Universidade de Lisboa",
+    "url": "https://www.iscsp.ulisboa.pt/"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Universidade de Lisboa"
+  },
+  "knowsLanguage": [
+    "pt",
+    "es",
+    "en"
+  ],
+  "sameAs": [
+    "https://www.iscsp.ulisboa.pt/pt/institucional/docentes/docentes/andreia-mendes-soares-e-castro",
+    "https://www.cienciavitae.pt/portal/1B1D-8841-751B",
+    "https://orcid.org/0000-0001-7354-9561",
+    "https://www.researchgate.net/profile/Andreia-Castro",
+    "https://expresso.pt/autores/2022-03-21-andreia-soares-e-castro-ea1dba96"
+  ]
+}
+</script>
+</head>
+<body data-root="false">
+<a class="skip-link" href="#main">跳至主要内容</a>
+<nav class="langbar" role="group" aria-label="语言">
+  <a href="/" data-lang="pt">PT</a><a href="/en/" data-lang="en">EN</a><a href="/es/" data-lang="es">ES</a><a href="/de/" data-lang="de">DE</a><a href="/zh-cn/" data-lang="zh" aria-current="true">中文</a>
+</nav>
+
+<div class="sheet">
+  <div class="letterhead">
+    <span class="portrait-wrap"><img class="portrait" src="https://www.iscsp.ulisboa.pt/uploads/2018/08/5b87fbf381e65-1-1.jpg" alt="Andreia Soares e Castro 肖像照" width="104" height="104" loading="eager"></span>
+    <div>
+      <p class="eyebrow">专业简介</p>
+      <p class="institution">里斯本大学 · ISCSP</p>
+      <h1 class="name">Andreia Soares e Castro</h1>
+      <p class="role">助理教授 · 社会与政治科学高等学院(ISCSP)</p>
+      <p class="tagline">国际关系 · 欧洲联盟 · 外交 · 体育外交(Sports Diplomacy)</p>
+    </div>
+  </div>
+
+  <main id="main">
+    <p class="lede" style="margin-top:28px">Andreia Soares e Castro 现任里斯本大学社会与政治科学高等学院(ISCSP)助理教授,自1997年起在该院任教,并自2018年起担任国际关系硕士项目执行协调人。她持有社会科学博士学位,专攻国际关系,自2009年起担任公共行政与公共政策研究中心(CAPP)研究员。其研究聚焦欧洲联盟、对外政策与外交事务——尤其关注体育外交(Sports Diplomacy)——以及宗教与国际关系之间的关联,此亦为其博士论文的核心议题。</p>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">I.</span><h2 class="sec-title">学术历程</h2></div>
+      <ul class="timeline"><li><span class="yr">1996</span><p class="tl-title">获得国际关系学士学位</p><p class="tl-detail">16/20分 · 里斯本技术大学ISCSP</p></li><li><span class="yr">1997</span><p class="tl-title">开始在ISCSP任教</p><p class="tl-detail">社会与政治科学高等学院</p></li><li><span class="yr">2002</span><p class="tl-title">获得国际关系硕士学位</p><p class="tl-detail">里斯本技术大学ISCSP · 论文《欧洲联盟:何种政治模式?——共同体方法的现实意义》</p></li><li><span class="yr">2010</span><p class="tl-title">获得社会科学(国际关系方向)博士学位</p><p class="tl-detail">里斯本大学 · 论文《"寰宇之内":宗教在全球化公共生活中的现实意义》,获全体一致最高评价 · 晋升为助理教授</p></li><li><span class="yr">2018</span><p class="tl-title">出任国际关系硕士项目执行协调人</p><p class="tl-detail">里斯本大学ISCSP</p></li></ul>
+    </section>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">II.</span><h2 class="sec-title">专业领域</h2></div>
+      <p class="intro-line">2012年至2015年间,她在ISCSP共同主持"21世纪外交"系列研讨会,聚焦经济外交、文化外交、科技外交与公共外交——这些领域至今仍是其研究的核心:</p>
+      <div class="tags"><span class="tag">外交</span><span class="tag">经济外交</span><span class="tag">文化外交</span><span class="tag">公共外交</span><span class="tag">科技外交</span><span class="tag">体育外交(Sports Diplomacy)</span><span class="tag">对外政策与软实力</span><span class="tag">欧盟规范性力量</span><span class="tag">欧洲化</span><span class="tag">欧洲联盟</span><span class="tag">宗教与国际关系</span></div>
+    </section>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">III.</span><h2 class="sec-title">体育外交研究重点</h2></div>
+      <p class="intro-line">她最具代表性的研究方向之一,探讨各国如何利用大型体育赛事塑造并投射软实力:</p>
+      <ul class="biblio"><li><span class="cite-title">The 2018 FIFA World Cup: The Gains and Constraints of Russia&#x27;s Soft Power of Attraction Through Football and Sports</span><span class="cite-meta">Rising Powers Quarterly, 第3卷第3期, 2018年, 第17–37页</span><span class="cite-note">分析俄罗斯如何借助2018年世界杯提升软实力与国际形象。</span></li><li><span class="cite-title">South Africa&#x27;s Engagement in Sports Diplomacy: The Successful Hosting of the 2010 FIFA World Cup</span><span class="cite-meta">The Hague Journal of Diplomacy, 第8卷第3–4期, 2013年, 第197–210页</span><span class="cite-note">探讨南非成功地将体育作为外交工具加以运用。</span></li><li><span class="cite-title">2014 FIFA World Cup and 2016 Olympic Games: Brazil&#x27;s Strategy «To Win Hearts and Minds» Through Football</span><span class="cite-meta">Public Diplomacy Magazine, 2013年</span><span class="cite-note">研究巴西通过大型体育赛事进行国际形象塑造的战略。</span></li></ul>
+    </section>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">IV.</span><h2 class="sec-title">精选著作</h2></div>
+      <h4 class="sub">专著</h4>
+      <ul class="biblio"><li><span class="cite-title">União Europeia: que modelo político? A atualidade do método comunitário</span><span class="cite-meta">《欧洲联盟:何种政治模式?共同体方法的现实意义》——里斯本:ISCSP出版社,2005年</span></li></ul>
+      <h4 class="sub">书籍章节(精选)</h4>
+      <ul class="biblio"><li><span class="cite-title">Reflexões sobre o futuro da Europa: a crise da COVID-19 e a necessidade de avançar no processo de reforma da UE</span><span class="cite-meta">《关于欧洲未来的思考:新冠疫情危机与欧盟改革的必要性》——收录于Crises e Desafios Internacionais。里斯本:MGI出版社,2020年</span></li><li><span class="cite-title">O contributo da União Europeia para a aplicação dos Princípios Orientadores das Nações Unidas sobre Empresas e Direitos Humanos</span><span class="cite-meta">《欧盟对联合国工商业与人权指导原则实施的贡献》——收录于Las Empresas Transnacionales en el Derecho Internacional Contemporáneo。瓦伦西亚:Tirant Lo Blanch出版社,2019年</span></li><li><span class="cite-title">«Quo Vadis Europa?» – Para onde caminha a União Europeia (UE)?: o «Brexit» e a afirmação da indispensabilidade do projeto europeu</span><span class="cite-meta">《欧洲何去何从?脱欧与欧洲一体化事业的不可或缺性》——收录于Estado, Ordem Internacional e Novas Ameaças。里斯本:MGI出版社,2018年</span></li><li><span class="cite-title">A Europa Global: solidariedade e responsabilidade na ação externa da União Europeia</span><span class="cite-meta">《全球欧洲:欧盟对外行动中的团结与责任》——收录于Cooperação Internacional para o Desenvolvimento。里斯本:Colibri出版社,2016年</span></li></ul>
+      <p class="intro-line" style="margin-top:14px">她还为《国际关系百科全书》与《国际法百科全书》(D. Quixote出版社;Almedina出版社)撰写了多个词条。其博士论文《"寰宇之内":宗教在全球化公共生活中的现实意义》获全体一致最高评价通过。</p>
+    </section>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">V.</span><h2 class="sec-title">学位论文指导</h2></div>
+      <div class="stats">
+        <div class="stat"><span class="num">27</span><span class="lbl">指导硕士学位论文篇数</span></div>
+        <div class="stat"><span class="num">29</span><span class="lbl">在ISCSP任教年数</span></div>
+        <div class="stat"><span class="num">2010</span><span class="lbl">获得博士学位年份</span></div>
+      </div>
+      <p class="intro-line">以下为近年来指导的部分论文选题,反映其研究兴趣的广度:</p>
+      <ul class="press-list"><li>数字外交:中国影响力新战略研究(2013–2021)</li><li>体育外交与"体育洗白"(Sportswashing):以沙特阿拉伯为例(2016–2022)</li><li>网络安全与网络外交:巴西在联合国的角色</li><li>博物馆外交:以卢浮宫为例</li><li>文化外交:波萨诺瓦(Bossa Nova)作为巴西对外推广的工具</li></ul>
+    </section>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">VI.</span><h2 class="sec-title">媒体与公共参与</h2></div>
+      <p class="intro-line">她定期为Expresso报撰写有关欧洲及国际事务的评论文章,其中包括:</p>
+      <ul class="press-list"><li><span class="yr-badge">2024</span>Porque devemos celebrar o Dia da Europa</li><li><span class="yr-badge">2023</span>Um ano de guerra na Europa: a necessidade de continuarmos unidos no apoio à Ucrânia</li><li><span class="yr-badge">2022</span>Invasão da Ucrânia: a importância da força moral</li></ul>
+      <div class="btnrow">
+        <a class="btn" href="https://expresso.pt/autores/2022-03-21-andreia-soares-e-castro-ea1dba96" target="_blank" rel="noopener">在Expresso阅读原文</a>
+        <a class="btn" href="https://www.facebook.com/watch/?v=1083392265609381" target="_blank" rel="noopener">观看公开演讲视频</a>
+      </div>
+      <p class="availability">可接受关于国际关系、外交与欧洲政治议题的专访、专家评论及公开演讲邀约。</p>
+    </section>
+
+    <section class="dossier">
+      <div class="sec-head"><span class="sec-num">VII.</span><h2 class="sec-title">机构联系方式</h2></div>
+      <div class="contact-grid">
+        <div>
+          <h4 class="sub">地址</h4>
+          <p>ISCSP &ndash; Universidade de Lisboa</p>
+          <p>特茹大楼(Bloco Tejo)0层27号办公室</p>
+          <p>+351 21 361 94 30</p>
+          <p><a href="mailto:asoares@iscsp.ulisboa.pt">asoares@iscsp.ulisboa.pt</a></p>
+          <p>语言能力:葡萄牙语(母语) · 西班牙语(C1) · 英语(B1)</p>
+        </div>
+        <div>
+          <h4 class="sub">相关链接</h4>
+          <ul class="linklist">
+            <li><a href="https://www.iscsp.ulisboa.pt/pt/institucional/docentes/docentes/andreia-mendes-soares-e-castro" target="_blank" rel="noopener">ISCSP &ndash; Universidade de Lisboa</a></li>
+            <li><a href="https://www.cienciavitae.pt/portal/1B1D-8841-751B" target="_blank" rel="noopener">Ci&ecirc;nciaVitae</a></li>
+            <li><a href="https://orcid.org/0000-0001-7354-9561" target="_blank" rel="noopener">ORCID 0000-0001-7354-9561</a></li>
+            <li><a href="https://www.researchgate.net/profile/Andreia-Castro" target="_blank" rel="noopener">ResearchGate</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="colophon">本专业简介依据公开及机构资料(CiênciaVitae、里斯本大学ISCSP)编制而成。</footer>
+</div>
+
+<div class="cookie-banner" id="cookieBanner" role="dialog" aria-live="polite" hidden>
+  <p>本网站仅使用网站运行所必需的技术性Cookie,不会为广告目的收集数据。</p>
+  <button type="button" id="cookieAccept">知道了</button>
+</div>
+
+<script src="../site.js"></script>
+</body>
+</html>
