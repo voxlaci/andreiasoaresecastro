@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andreiasoaresecastro.com/sitemap.xml
