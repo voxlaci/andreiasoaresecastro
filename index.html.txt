@@ -82,7 +82,7 @@
 
     <section class="dossier">
       <div class="sec-head"><span class="sec-num">I.</span><h2 class="sec-title">Percurso Académico</h2></div>
-      <ul class="timeline"><li><span class="yr">1996</span><p class="tl-title">Licenciatura em Relações Internacionais</p><p class="tl-detail">16 valores · UTL-ISCSP</p></li><li><span class="yr">1997</span><p class="tl-title">Início da atividade docente</p><p class="tl-detail">Instituto Superior de Ciências Sociais e Políticas</p></li><li><span class="yr">2002</span><p class="tl-title">Mestrado em Relações Internacionais</p><p class="tl-detail">UTL-ISCSP · dissertação “União Europeia: que modelo político? – a atualidade do método comunitário”</p></li><li><span class="yr">2010</span><p class="tl-title">Doutoramento em Ciências Sociais (Relações Internacionais)</p><p class="tl-detail">Universidade de Lisboa · tese «Urbi et Orbi»: a relevância da religião na vida pública globalizada”, Muito Bom por Unanimidade · nomeação como Professora Auxiliar</p></li><li><span class="yr">2018</span><p class="tl-title">Coordenadora Executiva do Mestrado em Relações Internacionais</p><p class="tl-detail">ISCSP – Universidade de Lisboa</p></li></ul>
+      <ul class="timeline"><li><span class="yr">1996</span><p class="tl-title">Licenciatura em Relações Internacionais</p><p class="tl-detail">16 valores · UTL-ISCSP</p></li><li><span class="yr">1997</span><p class="tl-title">Início da atividade docente</p><p class="tl-detail">Instituto Superior de Ciências Sociais e Políticas</p></li><li><span class="yr">2002</span><p class="tl-title">Mestrado em Relações Internacionais</p><p class="tl-detail">UTL-ISCSP · dissertação “União Europeia: que modelo político? – a atualidade do método comunitário”</p></li><li><span class="yr">2010</span><p class="tl-title">Doutoramento em Ciências Sociais (Relações Internacionais)</p><p class="tl-detail">Universidade de Lisboa · tese “«Urbi et Orbi»: a relevância da religião na vida pública globalizada”, Muito Bom por Unanimidade · nomeação como Professora Auxiliar</p></li><li><span class="yr">2018</span><p class="tl-title">Coordenadora Executiva do Mestrado em Relações Internacionais</p><p class="tl-detail">ISCSP – Universidade de Lisboa</p></li></ul>
     </section>
 
     <section class="dossier">
@@ -148,7 +148,7 @@
               </div>
             </div>
           </section>
-</div>        </main>
+</main>
       
         <footer class="colophon">Perfil profissional elaborado a partir de fontes públicas e institucionais (CiênciaVitae, ISCSP – Universidade de Lisboa).</footer>
 </div>
