@@ -145,18 +145,7 @@
       <script src="site.js"></script>
       </body>
       </html>
-      </div>
-            <p class="intro-line">Uma seleção de temas orientados nos últimos anos, refletindo a diversidade das suas linhas de investigação:</p>
-            <ul class="press-list"><li>Diplomacia Digital: a nova estratégia de influência chinesa (2013–2021)</li><li>Sports Diplomacy e a prática de Sportswashing: o caso da Arábia Saudita (2016–2022)</li><li>Cibersegurança e Cyberdiplomacy: o papel da diplomacia brasileira na ONU</li><li>Museum Diplomacy: o caso do Museu do Louvre</li><li>Diplomacia Cultural: a Bossa-Nova como instrumento de promoção do Brasil</li></ul>
-    </section>
-
-    <section class="dossier">
-      <div class="sec-head"><span class="sec-num">VI.</span><h2 class="sec-title">Imprensa e Opinião Pública</h2></div>
-            <p class="intro-line">Colabora regularmente com o jornal Expresso, onde assina artigos de opinião sobre a atualidade europeia e internacional, entre os quais:</p>
-            <ul class="press-list"><li><span class="yr-badge">2024</span>Porque devemos celebrar o Dia da Europa</li><li><span class="yr-badge">2023</span>Um ano de guerra na Europa: a necessidade de continuarmos unidos no apoio à Ucrânia</li><li><span class="yr-badge">2022</span>Invasão da Ucrânia: a importância da força moral</li></ul>
-            <div class="btnrow">
-              <a class="btn" href="https://expresso.pt/autores/2022-03-21-andreia-soares-e-castro-ea1dba96" target="_blank" rel="noopener">Ler no Expresso</a>
-        <a class="btn" href="https://www.facebook.com/watch/?v=1083392265609381" target="_blank" rel="noopener">Ver intervenção pública</a>
+      
       </div>
       <p class="availability">Disponível para entrevistas, comentário especializado e intervenções públicas sobre relações internacionais, diplomacia e política europeia.</p>
     </section>
