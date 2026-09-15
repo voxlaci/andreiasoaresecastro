@@ -470,7 +470,7 @@ p.intro-line{
 .timeline li{
   position:relative;
   min-height:78px;
-  padding:0 0 22px 106px;
+  padding:0 0 22px 122px;
 }
 
 .timeline li:last-child{ padding-bottom:0; }
@@ -985,9 +985,9 @@ footer.colophon::before{
   }
 
   .timeline li{
-    padding-left:82px;
+    padding-left:92px;
   }
-
+  
   .timeline .yr{
     width:54px;
     font-size:1.02rem;
